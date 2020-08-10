@@ -8,7 +8,7 @@ ___
 
 # Lempel-Ziv-Welch Algorithm:
 
-LZW Algorithm is a lossless data compression adaptive algorithm that does not assume prior knowledge of input data distribution. This is algorithm is best when the data is large and redundant. LZW Compression is mostly used for GIF image formats and TIFF image formats and PDF formats. The algorithm involves two steps. Uncompressed data takes a lot of space, so LZW compression can be used to compress the data and decrease its size.
+LZW Algorithm is a lossless data compression adaptive algorithm that does not assume prior knowledge of input data distribution. This algorithm is best when the data is large and redundant. LZW Compression is mostly used for GIF image formats and TIFF image formats and PDF formats. The algorithm involves two steps. Uncompressed data takes a lot of space, so LZW compression can be used to compress the data and decrease its size.
 
 
 1. Encoding/ Compressing
